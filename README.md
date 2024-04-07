@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a computer science undergrad who want to build software solutions for the existing problems <br>
+I am a computer science undergrad  <br>
 
 
 # 💻 Tech Stack:
